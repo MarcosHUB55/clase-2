@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T07:53:34.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.7.2" etag="rBbskeIoDd9HSWGHhdYC" type="github"><diagram id="IGZXVRzpiIOvHIQ-7Wc2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-11T16:45:02.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Kx3Gfb3xk_kUMyZL540-" version="14.7.7" type="github">
+  <diagram id="IGZXVRzpiIOvHIQ-7Wc2" name="Page-1">
+    <mxGraphModel dx="1144" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0INGW1SHBPwbx9KbDsF4-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0INGW1SHBPwbx9KbDsF4-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0INGW1SHBPwbx9KbDsF4-3" value="titulo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="49" y="150" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="0INGW1SHBPwbx9KbDsF4-4" value="descrip" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="170" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0INGW1SHBPwbx9KbDsF4-5" value="guardar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="49" y="280" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="0INGW1SHBPwbx9KbDsF4-8" value="titulo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="100" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
